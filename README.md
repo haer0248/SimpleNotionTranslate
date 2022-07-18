@@ -1,5 +1,5 @@
 ## Install
-git@github.com:haer0248/SimpleNotionTranslate.git
+`git@github.com:haer0248/SimpleNotionTranslate.git`
 
 ## Build
 npm insatll  
