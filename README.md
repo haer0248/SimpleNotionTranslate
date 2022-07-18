@@ -7,6 +7,7 @@ When install done, change the file name `.env.example` to `.env` and fill inside
 
 ## Start website
 node server.js  
-Url: http://127.0.0.1:8888/
+  
+When display `Server started on {port}` you can use url: http://127.0.0.1:8888/ visit.
 
 You can change port in .env
