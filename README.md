@@ -11,3 +11,9 @@ node server.js
 When display `Server started on {port}` you can use url: http://127.0.0.1:8888/ visit.
 
 You can change port in .env
+
+## Get API KEY
+https://www.notion.so/my-integrations/
+
+## Get Database
+`https://www.notion.so/[account]/[database]`
