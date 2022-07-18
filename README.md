@@ -6,7 +6,7 @@ npm insatll
 When install done, change the file name `.env.example` to `.env` and fill inside parameter.
 
 ## Start website
-npm server.js  
+node server.js  
 Url: http://127.0.0.1:8888/
 
 You can change port in .env
